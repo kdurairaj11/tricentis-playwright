@@ -1,0 +1,51 @@
+
+{
+  "baseUrl": "https://sampleapp.tricentis.com/101/app.php",
+  "testData": {
+    "Vehicle": {
+      "Make": "Audi",
+      "EnginePerformance": "260",
+      "DateOfManufacture": "11/6/2024",
+      "NumberOfSeats": "5",
+      "FuelType": "Gas",
+      "Payload": "500",
+      "Weight": "700",
+      "ListPrice": "66713",
+      "LicensePlateNumber": "ABC-1234",
+      "AnnualMileage": "9296"
+    },
+    "Insurant": {
+      "FirstName": "John",
+      "LastName": "Doe",
+      "DateOfBirth": "1/3/1998",
+      "Gender": "Male",
+      "StreetAddress": "555 Westbrook Cir.",
+      "Country": "United States",
+      "ZipCode": "1000",
+      "City": "Los Angeles",
+      "Occupation": "Employee",
+      "Hobbies": ["BungeeJumping", "Skydiving"],
+      "Website": "google.com",
+      "Picture": "C:\\TestData\\car1.png"
+    },
+    "Product": {
+      "StartDate": "11/10/2025",
+      "InsuranceSum": "10000000",
+      "MeritRating": "Bonus 7",
+      "DamageInsurance": "Full Coverage",
+      "OptionalProducts": ["LegalDefenseInsurance"],
+      "CourtesyCar": "No"
+    },
+    "PriceOption": {
+      "Option": "Platinum"
+    },
+    "Quote": {
+      "Email": "john123@test.com",
+      "Phone": "1234567890",
+      "Username": "john1",
+      "Password": "John!23",
+      "ConfirmPassword": "John!23"
+    }
+  }
+}
+
